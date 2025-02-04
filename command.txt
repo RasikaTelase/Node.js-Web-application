@@ -1,0 +1,7 @@
+# Prerequisite
+
+1. Open Terminal
+2. Write command :- npm install 
+3. node server.js
+4. Open with live server
+
